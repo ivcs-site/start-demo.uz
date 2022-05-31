@@ -78,6 +78,14 @@ body {
     text-align: center;
 }
 
+.info {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--themeColor);
+    text-align: center;
+    margin-top: 30px;
+}
+
 .btn {
     width: 100%;
     padding: 15px;
